@@ -6,7 +6,7 @@
 .tapList{
     margin:0 0 -1px;
     padding:8px 48px;
-    border-bottom:2px solid #292929;
+    border-bottom:1px solid #292929;
     width:fit-content;
     font-weight:bold;
     cursor:pointer;
