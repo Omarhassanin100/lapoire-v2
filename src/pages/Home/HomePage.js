@@ -1,6 +1,6 @@
 import React from 'react'
-import ProductInfo from '../../components/Home/ProductInfo'
-import ProductDescription from '../../components/Home/ProductDescription'
+import ProductInfo from '../../components/Home/ProdutInfo/ProductInfo'
+import ProductDescription from '../../components/Home/ProductDescription/ProductDescription'
 const HomePage = () => {
   return (
     <div>

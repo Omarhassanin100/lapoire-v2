@@ -1,0 +1,20 @@
+.tapListParent{
+    border-bottom:1px solid #1A7742;
+    list-style-type:none;
+    padding:0;
+}
+.tapList{
+    margin:0 0 -1px;
+    padding:8px 48px;
+    border-bottom:2px solid #292929;
+    width:fit-content;
+    font-weight:bold;
+    cursor:pointer;
+}
+.descriptionListParent{
+    list-style-type: none;
+}
+.descriptionList{
+    line-height: 30px;
+    color: #292929;
+}

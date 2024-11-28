@@ -1,0 +1,12 @@
+.counterParent{
+    border: 1px solid #1a7742;
+    padding:3px;
+    gap:20px;
+}
+.conterButton{
+    width:30px;
+    height: 30px;
+}
+.count{
+    color: #1a7742;
+}

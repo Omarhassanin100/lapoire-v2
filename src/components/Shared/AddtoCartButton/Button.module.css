@@ -1,0 +1,13 @@
+.buttonParent{
+  margin:0 0 32px;
+} 
+.Button{
+      border:none;
+      font-size:18px;
+      padding:4px 75px;
+      background-color:#1A7742;
+      margin:0 4px 8px
+}
+.Button:hover{
+  background-color:#292929;
+}

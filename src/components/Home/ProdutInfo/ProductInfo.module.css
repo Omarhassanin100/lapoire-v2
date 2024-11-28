@@ -1,0 +1,45 @@
+.parent{
+    padding: 0 50px;
+}
+.imgParent{
+    padding: 0 50px;
+}
+.titleParent{
+    padding-bottom: 30px;
+}
+.title{
+    font-weight: bold;
+    font-size: 42px;
+}
+.price{
+    /* style={{color:"#1A7742",fontWeight:"bold",fontSize:"20px"}} */
+    color: #1a7742;
+    font-weight: bold;
+    font-size: 20px;
+}
+.description{
+color: #1a7742;
+font-size: 16px;
+font-weight: bold;
+}
+.descriptionContent{
+    color: #292929;
+    font-size: 14px;
+    line-height: 30px;
+}
+.spanBold{
+    color: #1a7742;
+    font-size: 14px;
+    font-weight: bold;
+}
+.spna{
+color: #292929;
+}
+.delvery{
+ color: #1a7742;
+ padding-right: 10px;
+ font-weight: bold;
+}
+.delveryInfo{
+color:#1a7742;
+}
